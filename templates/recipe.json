@@ -5,17 +5,24 @@
   "duration": 0,
   "method": "",
   "gramms_in": 0,
-  "coarsness": "",
+  "coarseness": "",
   "ratio": "",
   "water_ml": 0,
   "temperatur_in_c": 0,
   "steps": [
     {
       "step_number": 0,
-      "timed": true,
+      "timed": false,
       "time_in_s": 0,
+      "title": "Preparation",
+      "description": "Prepare everything."
+    },
+    {
+      "step_number": 1,
+      "timed": true,
+      "time_in_s": 30,
       "title": "",
-      "description": ""
+      "description": "Bloom with 40ml of water and stir 10 times."
     }
   ]
 }
