@@ -1,0 +1,63 @@
+{
+  "name": "Double double",
+  "author": "Kyle Rowsell",
+  "author_handle": "@kyle.rowsell",
+  "duration": "03:00 - 03:30",
+  "method": "Pour-over, V60",
+  "gramms_in": 20,
+  "coarsness": "Medium Fine",
+  "ratio": "1:16",
+  "water_ml": 320,
+  "temperatur_in_c": 99,
+  "steps": [
+    {
+      "step_number": 0,
+      "timed": false,
+      "time_in_s": 0,
+      "title": "Preparation",
+      "description": "Rinse your filter paper"
+    },
+    {
+      "step_number": 1,
+      "timed": true,
+      "time_in_s": 45,
+      "title": "",
+      "description": "Add your coffee and pour 40ml water, give it a small swirl and let it bloom."
+    },
+    {
+      "step_number": 2,
+      "timed": true,
+      "time_in_s": 30,
+      "title": "",
+      "description": "Pour to 200ml water in medium speed."
+    },
+    {
+      "step_number": 3,
+      "timed": true,
+      "time_in_s": 20,
+      "title": "",
+      "description": "Let it sit for 20 seconds."
+    },
+    {
+      "step_number": 4,
+      "timed": true,
+      "time_in_s": 15,
+      "title": "",
+      "description": "Pour the rest 120ml water."
+    },
+    {
+      "step_number": 4,
+      "timed": true,
+      "time_in_s": 15,
+      "title": "",
+      "description": "Pour the rest 120ml water."
+    },
+    {
+      "step_number": 5,
+      "timed": true,
+      "time_in_s": 40,
+      "title": "",
+      "description": "Wait till your brew is done."
+    }
+  ]
+}

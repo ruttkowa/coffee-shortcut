@@ -1,0 +1,49 @@
+{
+  "name": "P9",
+  "author": "Ronaldo Hurtado",
+  "author_handle": "@st.ocratics",
+  "duration": "02:30 - 03:00",
+  "method": "Pour-over, V60",
+  "gramms_in": 30,
+  "coarsness": "Medium Fine",
+  "ratio": "1:15",
+  "water_ml": 450,
+  "temperatur_in_c": 91,
+  "steps": [
+    {
+      "step_number": 0,
+      "timed": false,
+      "time_in_s": 0,
+      "title": "Preparation",
+      "description": "Prepare everything."
+    },
+    {
+      "step_number": 1,
+      "timed": true,
+      "time_in_s": 10,
+      "title": "",
+      "description": "Add 120ml of water to coffee."
+    },
+    {
+      "step_number": 2,
+      "timed": true,
+      "time_in_s": 30,
+      "title": "",
+      "description": "Let it bloom and wait."
+    },
+    {
+      "step_number": 3,
+      "timed": true,
+      "time_in_s": 25,
+      "title": "",
+      "description": "Pour the rest of the water gently and in a circular motion (Rao spins are recommended)."
+    },
+    {
+      "step_number": 4,
+      "timed": true,
+      "time_in_s": 25,
+      "title": "",
+      "description": "Wait and let it brew"
+    }
+  ]
+}

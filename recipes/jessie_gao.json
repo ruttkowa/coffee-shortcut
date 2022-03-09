@@ -1,0 +1,49 @@
+{
+  "name": "A14",
+  "author": "Jessie Gao",
+  "author_handle": "@jessigao_",
+  "duration": "02:10",
+  "method": "AeroPress, Inverted",
+  "gramms_in": 13,
+  "coarsness": "Medium Grind",
+  "ratio": "1:16.2",
+  "water_ml": 210,
+  "temperatur_in_c": 92,
+  "steps": [
+    {
+      "step_number": 0,
+      "timed": false,
+      "time_in_s": 0,
+      "title": "Preparation",
+      "description": "Prepare everything."
+    },
+    {
+      "step_number": 1,
+      "timed": true,
+      "time_in_s": 30,
+      "title": "",
+      "description": "Bloom with 40ml of water and stir 10 times."
+    },
+    {
+      "step_number": 2,
+      "timed": true,
+      "time_in_s": 30,
+      "title": "",
+      "description": "Add 50ml of water"
+    },
+    {
+      "step_number": 3,
+      "timed": true,
+      "time_in_s": 30,
+      "title": "",
+      "description": "Add 120ml of water and stir 10 times."
+    },
+    {
+      "step_number": 4,
+      "timed": true,
+      "time_in_s": 40,
+      "title": "",
+      "description": "Close the cap, reverse, and plunge within 40 seconds."
+    }
+  ]
+}

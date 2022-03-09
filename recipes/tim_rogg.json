@@ -1,0 +1,49 @@
+{
+  "name": "A7",
+  "author": "Tim Rogg",
+  "author_handle": "@therightroast",
+  "duration": "01:00",
+  "method": "AeroPress, Inverted",
+  "gramms_in": 15,
+  "coarsness": "Medium Grind",
+  "ratio": "1:10",
+  "water_ml": 150,
+  "temperatur_in_c": 92,
+  "steps": [
+    {
+      "step_number": 0,
+      "timed": false,
+      "time_in_s": 0,
+      "title": "Preparation",
+      "description": "Place coffee into the AeroPress."
+    },
+    {
+      "step_number": 1,
+      "timed": true,
+      "time_in_s": 10,
+      "title": "",
+      "description": "Pour 100ml of water"
+    },
+    {
+      "step_number": 2,
+      "timed": true,
+      "time_in_s": 10,
+      "title": "",
+      "description": "Stir firmly 20 times."
+    },
+    {
+      "step_number": 3,
+      "timed": true,
+      "time_in_s": 20,
+      "title": "",
+      "description": "Place the cap with the single filter paper onto the brewer and gently press out excess air."
+    },
+    {
+      "step_number": 4,
+      "timed": true,
+      "time_in_s": 20,
+      "title": "",
+      "description": "Flipp the AeroPress and plunge down. Add the remaining 50ml of water. Continoue to add more water until you reach the desired taste and strength."
+    }
+  ]
+}

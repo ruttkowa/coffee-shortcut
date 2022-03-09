@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "author": "",
+  "author_handle":"",
+  "duration": 0,
+  "method": "",
+  "gramms_in": 0,
+  "coarsness": "",
+  "ratio": "",
+  "water_ml": 0,
+  "temperatur_in_c": 0,
+  "steps": [
+    {
+      "step_number": 0,
+      "timed": true,
+      "time_in_s": 0,
+      "title": "",
+      "description": ""
+    }
+  ]
+}
